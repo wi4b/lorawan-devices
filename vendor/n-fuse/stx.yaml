@@ -40,10 +40,6 @@ firmwareVersions:
         id: sx1261-16db-profile
         lorawanCertified: false
         codec: stx-codec
-      AS923-2:
-        id: sx1261-16db-profile
-        lorawanCertified: false
-        codec: stx-codec
 sensors:
   - battery # health via voltage (MCU internal)
   - temperature # HDC2080
